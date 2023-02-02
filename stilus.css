@@ -54,11 +54,7 @@ article h1{
         margin: auto;
         background-color: rgb(255,255,230);
         display: grid;
-        grid-template-areas: "h "
-                            "n  "
-                            "a"
-                            "as"
-                            "f";
+      
     
     }
     aside img{
